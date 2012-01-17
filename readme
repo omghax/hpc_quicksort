@@ -1,1 +1,8 @@
 Just a quick exercise in making quicksort a parallel ordeal.
+
+The 'Rules':
+- Your solution must work with 1GB of memory or less.
+- Your solution must output a file called 'sorted' in the data dir. It should be a comma separated list, with an extra comma at the end. 
+- Your solution file must be the exact same size as the unsorted file.
+- Your solution should be able to sort a file of any size, hard drive space permitting. 
+- You are free to use another language, algorithm, virtual machine, etc.

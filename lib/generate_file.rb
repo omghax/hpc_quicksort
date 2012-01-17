@@ -1,3 +1,5 @@
+# 25MB is a good test case. 5GB is the actual target!
+
 TARGET_SIZE = 26_214_400 #5_368_709_120
 RAND_MAX = 1_000_000
 
