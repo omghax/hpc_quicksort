@@ -6,3 +6,14 @@ The 'Rules':
 - Your solution file must be the exact same size as the unsorted file.
 - Your solution should be able to sort a file of any size, hard drive space permitting. 
 - You are free to use another language, algorithm, virtual machine, etc.
+- You can assume the values are 32 bit integers
+
+The reference implementation:
+
+Is extremely slow. But also uses very little memory. It defaults to a 25MB unsorted file.
+
+To get started:
+mkdir data
+cd lib
+ruby generate_file.rb
+ruby sort_file.rb
